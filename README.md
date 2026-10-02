@@ -23,8 +23,8 @@ Data analysis project exploring the relationship between screen time and employe
 - Applying statistical analysis to real-world datasets
 
 ## Dashboard Preview
-![Dashboard 1](screenshots/dashboard1.png)
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
 
 ## Files
 - `Analytics Report.pdf` — Full project report with methodology and findings
